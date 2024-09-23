@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+{'What is the primary goal of machine learning?'},a: To memorize data | b: To generalize from data and make predictions | c: To follow explicit instructions | d: To perform tasks without data,b
+{'Which field of study focuses on exploratory data analysis via unsupervised learning?'},a: Data Engineering | b: Data Science | c: Data Mining | d: Data Analytics,c
+{'What is the term used to describe the framework for describing machine learning from a theoretical viewpoint?'},a: Approximately Correct Learning | b: Probably Accurate Learning | c: Approximate Precision Learning | d: Probably Approximately Correct Learning,d
+{'Which type of machine learning does not require labeled training data?'},a: Supervised Learning | b: Unsupervised Learning | c: Reinforcement Learning | d: Semi-supervised Learning,b
+{'What is the purpose of a decision tree in machine learning?'},a: To perform linear regression | b: To represent relationships between variables | c: To generate random predictions | d: To optimize neural networks,b

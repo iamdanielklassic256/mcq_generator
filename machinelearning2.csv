@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+{'What is the primary goal of machine learning?'},a: To make predictions based on historical data | b: To perform tasks without explicit instructions | c: To create artificial neural networks | d: To analyze data using statistical algorithms,b
+{'Which field of study focuses on exploratory data analysis via unsupervised learning?'},a: Data Science | b: Data Mining | c: Computer Vision | d: Natural Language Processing,b
+"{""Who coined the term 'machine learning' in 1959?""}",a: Donald Hebb | b: Arthur Samuel | c: Tom M. Mitchell | d: Raytheon Company,b
+{'Which type of machine learning algorithm uses a decision tree as a predictive model?'},a: Support-Vector Machines | b: Artificial Neural Networks | c: Regression Analysis | d: Decision Trees,d
+{'What is the primary benefit of federated learning in machine learning?'},a: Centralized training process | b: Increased privacy for users | c: Sending data to a centralized server | d: Decreased efficiency,b
