@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-{'What is the primary goal of machine learning?'},a: To make predictions based on historical data | b: To perform tasks without explicit instructions | c: To create artificial neural networks | d: To analyze data using statistical algorithms,b
-{'Which field of study focuses on exploratory data analysis via unsupervised learning?'},a: Data Science | b: Data Mining | c: Computer Vision | d: Natural Language Processing,b
-"{""Who coined the term 'machine learning' in 1959?""}",a: Donald Hebb | b: Arthur Samuel | c: Tom M. Mitchell | d: Raytheon Company,b
-{'Which type of machine learning algorithm uses a decision tree as a predictive model?'},a: Support-Vector Machines | b: Artificial Neural Networks | c: Regression Analysis | d: Decision Trees,d
-{'What is the primary benefit of federated learning in machine learning?'},a: Centralized training process | b: Increased privacy for users | c: Sending data to a centralized server | d: Decreased efficiency,b
+{'What is the main goal of supervised learning?'},a: To find hidden patterns in data | b: To predict future outcomes based on past data | c: To identify anomalies in a dataset | d: To classify data into specific categories,b
+{'Which machine learning model is inspired by the biological neural networks?'},a: Decision trees | b: Support-vector machines | c: Artificial neural networks | d: Gaussian processes,c
+{'What is the purpose of feature learning in machine learning?'},a: To reduce the dimensionality of the feature set | b: To learn better representations of the input data | c: To classify data into specific categories | d: To predict future outcomes based on past data,b
+{'Which technique is used to mitigate overfitting in regression analysis?'},a: Regularization | b: Kernel regression | c: Polynomial regression | d: Logistic regression,a
+{'What is the main advantage of federated learning in machine learning?'},a: Centralized data storage | b: Increased efficiency | c: Data privacy concerns | d: Biased model training,b

@@ -156,8 +156,8 @@ with get_openai_callback()as cb:
 # print(f"Total Cost: {cb.total_cost}")
 
 
-quizz = response.get('quiz')
-quiz = json.loads(quizz)
+quiz = response.get('quiz')
+quiz = json.loads(quiz)
 
 
 quiz_table = []

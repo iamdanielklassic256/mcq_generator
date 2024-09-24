@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mcqgenrator
+Version: 0.0.1
+Summary: A package to generate multiple choice questions
+Author: Daniel Okumu Comboni
+Author-email: okumucomboni@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
